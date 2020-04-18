@@ -1,4 +1,4 @@
-# Mathematics-Formula-Calculator
+# Maths All-in-One Calculator
 
 This project aims to provide students with a fully-functioning mathematical calculator, that primarily
 focuses on solving fully-fledged functions for the student. For example, instead of having to manually 
