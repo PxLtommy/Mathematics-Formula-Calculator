@@ -6,6 +6,8 @@ remember and enter entire formulas for lets say, figuring out the blood-alcohol-
 can simply type into the program that they want to solve the BAC. The program will then ask for the
 required information, calculate it, then output it to the teacher in miliseconds.
 
+The documentation for this program can be found [Here.](https://docs.google.com/document/d/1xr_103din2yMFHK86hl7IhhrNhKDLXdYOjA_TWUBdsQ/edit?usp=sharing)
+
 F.A.Q:
 
 Why should I use your program over a website?
