@@ -16,6 +16,10 @@ Why should I use your program over a website?
   to solve with the sine rule, and then use cosine, you will need 2 different websites. My program has every formula
   all-in-one. And if it doesn't, then the desired formula can be requested using the #Pull-requests tab via github.
   
+How do I request a feature/module?
+
+- Features can be requested by creating a [new issue](https://github.com/ThomasAdnum/Maths-All-in-One-Calculator/issues/new) on this github repo, and adding the label 'enchancement'. You can then describe what you want added to the program
+  
 How do I download the GUI concept?
 
 - The GUI is available for download under the 'Releases' tab in the latest version.
